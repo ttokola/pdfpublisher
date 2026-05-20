@@ -1,0 +1,5 @@
+pypdf
+reportlab
+requests
+google-genai
+python-pptx

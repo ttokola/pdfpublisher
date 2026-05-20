@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  pdfpublisher:
+    build: .
+    container_name: pdfpublisher
+    command: python pdfpublisher.py
